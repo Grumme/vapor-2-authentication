@@ -1,0 +1,516 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Config+Setup.swift",
+      "line": 12,
+      "symbol": "config",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Config+Setup.swift",
+      "line": 16,
+      "symbol": "Config.setup()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Controllers/PostController.swift",
+      "line": 17,
+      "symbol": "PostController.init(droplet:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Controllers/UserController.swift",
+      "line": 18,
+      "symbol": "UserController.init(droplet:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Controllers/UserController.swift",
+      "line": 172,
+      "symbol": "String.isValidEmail()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Droplet+Setup.swift",
+      "line": 11,
+      "symbol": "drop",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Droplet+Setup.swift",
+      "line": 15,
+      "symbol": "Droplet.setup()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Droplet+Setup.swift",
+      "line": 23,
+      "symbol": "Droplet.seedData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Helpers/Extensions+StringEnum.swift",
+      "line": 10,
+      "symbol": "StructuredDataWrapper.get(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Helpers/Extensions+StringEnum.swift",
+      "line": 14,
+      "symbol": "StructuredDataWrapper.set(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Helpers/Extensions+StringEnum.swift",
+      "line": 22,
+      "symbol": "QueryRepresentable.filter(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Helpers/Extensions+StringEnum.swift",
+      "line": 31,
+      "symbol": "Creator.string(_:optional:unique:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Helpers/Extensions+StringEnum.swift",
+      "line": 37,
+      "symbol": "Creator.int(_:optional:unique:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Middleware/AdminMiddleware.swift",
+      "line": 11,
+      "symbol": "AdminMiddleware",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Middleware/AdminMiddleware.swift",
+      "line": 13,
+      "symbol": "AdminMiddleware.respond(to:chainingTo:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Middleware/HerokuHttpsMiddleware.swift",
+      "line": 4,
+      "symbol": "HerokuHttpsMiddleware",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Middleware/HerokuHttpsMiddleware.swift",
+      "line": 6,
+      "symbol": "HerokuHttpsMiddleware.init(config:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Middleware/HerokuHttpsMiddleware.swift",
+      "line": 8,
+      "symbol": "HerokuHttpsMiddleware.respond(to:chainingTo:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Middleware/LogMiddleware.swift",
+      "line": 11,
+      "symbol": "LogMiddleware",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Middleware/LogMiddleware.swift",
+      "line": 13,
+      "symbol": "LogMiddleware.respond(to:chainingTo:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/AccessToken.swift",
+      "line": 17,
+      "symbol": "AccessToken.Fields",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/AccessToken.swift",
+      "line": 17,
+      "symbol": "AccessToken.Fields.token",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/AccessToken.swift",
+      "line": 17,
+      "symbol": "AccessToken.Fields.user_id",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/AccessToken.swift",
+      "line": 18,
+      "symbol": "AccessToken.token",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/AccessToken.swift",
+      "line": 19,
+      "symbol": "AccessToken.userId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/AccessToken.swift",
+      "line": 21,
+      "symbol": "AccessToken.init(token:userId:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/AccessToken.swift",
+      "line": 26,
+      "symbol": "AccessToken.init(row:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/AccessToken.swift",
+      "line": 31,
+      "symbol": "AccessToken.makeRow()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/AccessToken.swift",
+      "line": 38,
+      "symbol": "AccessToken.user",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/AccessToken.swift",
+      "line": 60,
+      "symbol": "AccessToken.makeJSON()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/AccessToken.swift",
+      "line": 69,
+      "symbol": "AccessToken.generate(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Log.swift",
+      "line": 30,
+      "symbol": "Log.ip",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Log.swift",
+      "line": 31,
+      "symbol": "Log.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Log.swift",
+      "line": 32,
+      "symbol": "Log.route",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Log.swift",
+      "line": 34,
+      "symbol": "Log.init(row:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Log.swift",
+      "line": 41,
+      "symbol": "Log.init(ip:type:route:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Log.swift",
+      "line": 47,
+      "symbol": "Log.makeRow()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Log.swift",
+      "line": 79,
+      "symbol": "Log.init(json:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Log.swift",
+      "line": 88,
+      "symbol": "Log.makeJSON()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Post.swift",
+      "line": 32,
+      "symbol": "Post.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Post.swift",
+      "line": 33,
+      "symbol": "Post.content",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Post.swift",
+      "line": 34,
+      "symbol": "Post.location",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Post.swift",
+      "line": 35,
+      "symbol": "Post.userId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Post.swift",
+      "line": 37,
+      "symbol": "Post.init(row:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Post.swift",
+      "line": 45,
+      "symbol": "Post.init(title:content:location:userId:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Post.swift",
+      "line": 54,
+      "symbol": "Post.makeRow()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Post.swift",
+      "line": 88,
+      "symbol": "Post.init(json:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Post.swift",
+      "line": 98,
+      "symbol": "Post.makeJSON()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Post.swift",
+      "line": 111,
+      "symbol": "Post.owner",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Role.swift",
+      "line": 26,
+      "symbol": "Role.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Role.swift",
+      "line": 28,
+      "symbol": "Role.init(row:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Role.swift",
+      "line": 32,
+      "symbol": "Role.init(type:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Role.swift",
+      "line": 37,
+      "symbol": "Role.makeRow()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Role.swift",
+      "line": 65,
+      "symbol": "Role.init(json:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Role.swift",
+      "line": 72,
+      "symbol": "Role.makeJSON()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/Role.swift",
+      "line": 82,
+      "symbol": "Role.users",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/User.swift",
+      "line": 33,
+      "symbol": "User.email",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/User.swift",
+      "line": 34,
+      "symbol": "User.password",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/User.swift",
+      "line": 35,
+      "symbol": "User.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/User.swift",
+      "line": 36,
+      "symbol": "User.roleId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/User.swift",
+      "line": 38,
+      "symbol": "User.init(row:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/User.swift",
+      "line": 45,
+      "symbol": "User.init(email:name:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/User.swift",
+      "line": 50,
+      "symbol": "User.makeRow()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/User.swift",
+      "line": 84,
+      "symbol": "User.init(json:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/User.swift",
+      "line": 94,
+      "symbol": "User.makeJSON()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/User.swift",
+      "line": 106,
+      "symbol": "User.posts",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/User.swift",
+      "line": 110,
+      "symbol": "User.role",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Models/User.swift",
+      "line": 114,
+      "symbol": "User.register(email:password:name:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Routes.swift",
+      "line": 14,
+      "symbol": "Droplet.passwordAuthed",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Routes.swift",
+      "line": 15,
+      "symbol": "Droplet.tokenAuthed",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Routes.swift",
+      "line": 16,
+      "symbol": "Droplet.adminAuthed",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Routes.swift",
+      "line": 18,
+      "symbol": "Droplet.setupRoutes()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jakobgrumsen/Desktop/vapor-2-authentication/Sources/App/Routes.swift",
+      "line": 28,
+      "symbol": "Droplet.setupPublicRoutes()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/jakobgrumsen/Desktop/vapor-2-authentication"
+}

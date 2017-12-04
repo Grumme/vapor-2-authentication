@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "e9c538ad077e69c58fa501a66410cc08"
+build_time: [1507364133, 728023000]
+inputs:
+  "/Users/jakobgrumsen/vapor-2-authenfication/Package.swift": [1507363912, 0]

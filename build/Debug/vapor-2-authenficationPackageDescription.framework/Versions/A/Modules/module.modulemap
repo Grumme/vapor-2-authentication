@@ -1,0 +1,4 @@
+framework module vapor_2_authenficationPackageDescription {
+    header "vapor_2_authenficationPackageDescription-Swift.h"
+    requires objc
+}

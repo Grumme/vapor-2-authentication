@@ -1,0 +1,11 @@
+jazzy \
+    --xcodebuild-arguments -scheme,vapor-2-authentication-Package \
+    --author 'Jakob Grumsen' \
+    --author_url 'https://www.grumsenit.dk/' \
+    --readme README.md \
+    --module "App" \
+    --output "./documentation" \
+    --clean \
+    --min-acl internal \
+    --theme fullwidth \
+    --no-download-badge
